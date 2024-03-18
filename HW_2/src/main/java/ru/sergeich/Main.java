@@ -5,7 +5,7 @@ import java.lang.reflect.Method;
 public class Main {
     public static void main(String[] args) throws ClassNotFoundException {
         Class<?> strings = Class.forName("java.lang.String");
-        Method[] methods = strings.getClass().getDeclaredMethods();
+        Method[] methods = strings.getClass().getMethods();
         for (Method method : methods) {
             System.out.println(method);
         }

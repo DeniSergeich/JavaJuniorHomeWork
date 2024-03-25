@@ -1,0 +1,9 @@
+
+¯
+java:S1319"gThe type of "clients" should be an interface such as "List" rather than the implementation "ArrayList".(×ãå„şÿÿÿÿ8§¤„¼ç1J$f3f33097-bfbd-4e1f-9785-f222566769e6
+e
+java:S2386"Make this member "protected".(×ãå„şÿÿÿÿ8ä¤„¼ç1J$991211f7-9b58-4989-90ec-e1ee2ffb639d
+
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(×ãå„şÿÿÿÿ8è¤„¼ç1J$aa739e62-8612-455b-9d31-17b39d34382a
+r	java:S106"+Replace this use of System.out by a logger.(€Ÿßüÿÿÿÿ8‚¥„¼ç1J$b3558e25-f449-4466-a448-254498e1609d
+m	java:S1060"+Replace this use of System.out by a logger.(ø×ÜÌ8„¥„¼ç1J$bba3c1a4-5afa-4d97-8e7a-bc2ec1969ac3
